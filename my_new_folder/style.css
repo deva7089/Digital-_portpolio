@@ -1,0 +1,119 @@
+/* 
+        body  {
+             background-color: aquamarine;
+        } */
+
+        .main1{
+            height: 400px;
+            /* border: 2px solid black; */
+            display: flex;
+            padding: 10px;
+            margin: 10px;
+            text-align: center;
+        }
+
+        .main1 .left{
+            width: 50%;
+            /* border: 2px solid red; */
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .modern1{
+            text-align: center;
+            margin-left: 200px;
+            margin-right: 200px;
+        }
+
+        .main1 .right{
+            width: 50%;
+            /* border: 2px solid red; */
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .main1 .points1{
+            text-align: left;
+            /* width: 400px; */
+            margin: auto;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        h2{ 
+            color: blue;
+        }
+
+        #p1{
+            width: 80px; 
+            height: 20px; 
+            background-color: blanchedalmond;
+            text-align: center;
+    
+            /* animation: name;
+            animation-duration: 5s;
+            animation-iteration-count: infinite; */
+
+
+        }
+        /* @keyframes name {
+            from {background-color: burlywood; margin-left: 100%;}
+            to {background-color: coral; margin-left: 0%;}
+        } */
+
+        #p2{
+            width: 90px;
+            height: 20px;
+            text-align: center;
+            background-color: blanchedalmond;
+
+            /* animation:name2 ;
+            animation-iteration-count: infinite;
+            animation-duration: 5s; */
+        }
+
+        /* @keyframes name2{
+            from {background-color: burlywood; margin-left: 100%;}
+            to {background-color: coral; margin-left: 0%;}
+        } */
